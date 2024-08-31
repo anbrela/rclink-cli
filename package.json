@@ -1,6 +1,6 @@
 {
   "name": "rclink-cli-cli",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A simple CLI tool to manage and switch between different .npmrc files stored in your home directory.",
   "main": "index.js",
   "bin": {
