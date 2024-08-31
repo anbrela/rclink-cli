@@ -11,12 +11,8 @@
 
 ## Installation
 
-To install `rclink`, clone the repository and install it globally:
-
 ```bash
-git clone https://github.com/yourusername/rclink.git
-cd rclink
-npm install -g .
+npm i -g rclink-cli
 ```
 
 ## Usage
