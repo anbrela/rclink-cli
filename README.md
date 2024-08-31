@@ -1,7 +1,7 @@
 
-# rclink-cli-cli
+# rclink-cli
 
-`rclink-cli-cli` is a simple command-line tool that allows you to easily manage and switch between different npm configuration files (`.npmrc`) stored in your user's home directory. With `rclink-cli-cli`, you can quickly link a specific `.npmrc` file to the global configuration, enabling seamless transitions between different project setups or environments. The tool also provides a convenient way to unlink the `.npmrc` file, reverting to a clean state.
+`rclink-cli` is a simple command-line tool that allows you to easily manage and switch between different npm configuration files (`.npmrc`) stored in your user's home directory. With `rclink-cli`, you can quickly link a specific `.npmrc` file to the global configuration, enabling seamless transitions between different project setups or environments. The tool also provides a convenient way to unlink the `.npmrc` file, reverting to a clean state.
 
 ## Features
 
@@ -12,7 +12,7 @@
 ## Installation
 
 ```bash
-npm i -g rclink-cli-cli
+npm i -g rclink-cli
 ```
 
 ## Usage
