@@ -1,10 +1,10 @@
 {
-  "name": "rclink-cli",
+  "name": "rclink-cli-cli",
   "version": "1.0.0",
   "description": "A simple CLI tool to manage and switch between different .npmrc files stored in your home directory.",
   "main": "index.js",
   "bin": {
-    "rclink-cli": "./index.js"
+    "rclink-cli-cli": "./index.js"
   },
   "scripts": {
     "start": "node index.js"
@@ -14,7 +14,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/anbrela/rclink.git"
+    "url": "https://github.com/anbrela/rclink-cli.git"
   },
   "dependencies": {
     "fs-extra": "^10.0.0"

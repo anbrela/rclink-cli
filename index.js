@@ -35,7 +35,7 @@ function unlinkRc() {
 
 function showHelp() {
     console.log(`
-Usage: rclink <alias> [--help] [unlink]
+Usage: rclink-cli <alias> [--help] [unlink]
 
 Commands:
   <alias>    Link the specified .npmrc file from ~/.rc_files to ~/.npmrc
